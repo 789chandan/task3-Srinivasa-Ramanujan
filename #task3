@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Srinivasa Ramanujan</title>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <div class="title_photo">
+          <p class="title fontLarge" >
+            <strong> <u>Srinivasa Ramanujan</u> </strong> 
+            <br />
+            Lived 1887-1920
+          </p>
+          <img src="https://image.slidesharecdn.com/mathematicsvgci-140618072709-phpapp01/95/mathematics-vgci-4-638.jpg?cb=1403076484" width="200"height="200" />
+        </div>
+        <p class="dec">
+            Srinivasa Ramanujan, (born December 22, 1887, Erode, India—died April 26, 1920, Kumbakonam), Indian mathematician whose contributions to the theory of numbers include pioneering discoveries of the properties of the partition function.
+        </p>
+      </header>
+      <div class="container">
+        <section>
+          <h3 class="fontLarge">Beginnings</h3>
+          <p>
+            When he was 15 years old, he obtained a copy of George Shoobridge Carr’s Synopsis of Elementary Results in Pure and Applied Mathematics, 2 vol. (1880–86). This collection of thousands of theorems, many presented with only the briefest of proofs and with no material newer than 1860, aroused his genius. Having verified the results in Carr’s book, Ramanujan went beyond it, developing his own theorems and ideas. In 1903 he secured a scholarship to the University of Madras but lost it the following year because he neglected all other studies in pursuit of mathematics.
+          </p>
+          <p>
+            In 1911 Ramanujan published the first of his papers in the Journal of the Indian Mathematical Society. His genius slowly gained recognition, and in 1913 he began a correspondence with the British mathematician Godfrey H. Hardy that led to a special scholarship from the University of Madras and a grant from Trinity College, Cambridge. Overcoming his religious objections, Ramanujan traveled to England in 1914, where Hardy tutored him and collaborated with him in some research.
+          </p>
+          <p>
+            Ramanujan’s parents moved around a lot, and he attended a variety of
+            different elementary schools
+          </p>
+        </section>
+
+        <div class="image">
+          <img src="https://th.bing.com/th/id/OIP.JlVMEx1voG1N3Ca-WgnAKAHaEK?pid=ImgDet&rs=1"  width="200"height="200" />
+          <img src="https://thecontentgeek.com/wp-content/uploads/2020/06/s-ramanujan-930x620-1.jpg" width="200"height="200" />
+        </div>
+
+        <section>
+          <h3 class="fontLarge">Ramanujan at Cambridge</h3>
+          <p>
+            Ramanujan arrived in Cambridge in April 1914, three months before
+            the outbreak of World War 1. Within days he had begun work with
+            Hardy and Littlewood. Two years later, he was awarded the equivalent
+            of a Ph.D. for his work a mere formality.
+          </p>
+          <p>
+            Ramanujan’s prodigious mathematical output amazed Hardy and
+            Littlewood.
+          </p>
+
+          <p>
+            One of the greatest mathematicians of all time, Srinivasa Ramanujan was born in 1887 in the Southern part of India. He is still remembered for his contributions to the field of mathematics. Theorems formulated by him are to date studied by students across the world and within very few years of his lifespan, he made some exceptional discoveries in mathematics. 
+          </p>
+        </section>
+
+        <div class="image">
+          <img src="https://wallpapercave.com/wp/wp6596702.jpg"  width="200"height="200"/>
+          <img src="https://th.bing.com/th/id/R.951d867c71be0ce4c796c5bac6458c61?rik=jt%2bEJeZnYi09Fg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-cgqV1_Y6Ge8%2fT2FuxQLnK3I%2fAAAAAAAAABE%2f1AGcN6x686c%2fs1600%2framanujan.gif&ehk=707tT7DEi9CLlWXw3G7lrcjEQpz3E%2b3AvkMI8RA%2bueg%3d&risl=&pid=ImgRaw&r=0"  width="200"height="200" />
+        </div>
+
+        <section>
+          <h3 class="fontLarge">Some Personal Details and the End</h3>
+          <p>
+            
+          </p>
+          <p>
+            Srinivasa Ramanujan was born on 22nd December 1887 in the south Indian town of Tamil Nad, named Erode. 
+            His father, Kuppuswamy Srinivasa Iyengar worked as a clerk in a saree shop and his mother, Komalatamma was a housewife. 
+            Since a very early age, he had a keen interest in mathematics and had already become a child prodigy
+          </p>
+
+          <p>
+            Srinivasa Ramanujan Education :
+
+He attained his early education and schooling from Madras, where he was enrolled in a local school
+His love for mathematics had grown at a very young age and was mostly self-taught
+He was a promising student and had won many academic prizes in high school
+But his love for mathematics proved to be a disadvantage when he reached college. As he continued to excel in only one subject and kept failing in all others. This resulted in him dropping out of college
+However, he continued to work on his collection of mathematical theorems, ideologies and concepts until he got his final breakthrough
+          </p>
+
+          <p>
+            Final Break Through :
+
+S. Ramanujam did not keep all his discoveries to himself but continued to send his works to International mathematicians
+In 1912, he was appointed at the position of clerk in the Madras Post Trust Office, where the manager, S.N. Aiyar encouraged him to reach out to G.H. Hardy, a famous mathematician at the Cambridge University
+In 1913, he had sent the famous letter to Hardy, in which he had attached 120 theorems as a sample of his work
+Hardy along with another mathematician at Cambridge, J.E.Littlewood analysed his work and concluded it to be a work of true genius
+It was after this that his journey and recognition as one of the greatest mathematicians had started 
+          </p>
+
+          <p>
+            Srinivasa Ramanujan Contributions
+Between 1914 and 1914, while Ramanujan was in England, he along with Hardy published over a dozen research papers
+During the time period of three years, he had published around 30 research papers
+Hardy and Ramanujan had developed a new method, now called the circle method, to derive an asymptomatic formula for this function
+His first paper published, a 17-page work on Bernoulli numbers that appeared in 1911 in the Journal of the Indian Mathematical Society
+One remarkable result of the Hardy-Ramanujan collaboration was a formula for the number p(n) of partitions of a number ‘n'
+          </p>
+
+          <p>
+            The intention behind encouraging the significance of mathematics was mainly to boost youngsters who are the future of the country and influence them to have a keen interest in analysing the scope of this subject. 
+          </p>
+
+          <p>
+            Death – 
+
+In 1919, Ramanujan’s health had started to deteriorate, after which he decided to move back to India
+After his return in 1920, his health further worsened and he died at the age of just 32 years
+The life of such great Indians and their contribution in various fields is an important part of the UPSC Syllabus. Candidates preparing for the upcoming civil services exam must analyse this information carefully. 
+          </p>
+        </section>
+      </div>
+    </div>
+  </body>
+  </html>
+<style>
+    body{
+        background-color: chocolate;
+    }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'chiller', sans-serif;
+}
+
+.fontLarge {
+    font-family: 'Aboreto', cursive;
+}
+
+#wrapper {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* background-color: black; */
+}
+header {
+    /* margin-bottom: 1rem; */
+    padding: 1rem 0;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    border-radius: 0px 0px 9px 9px;
+}
+header .title_photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+}
+.title_photo .title {
+    font-size: 3rem;
+}
+header .dec {
+    width: 80%;
+    text-align: center;
+}
+
+.container {}
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 12px;
+    text-align: center;
+    gap: 18px;
+
+    /* background: transparent; */
+
+    background-image: url("https://th.bing.com/th/id/OIP.ph2W8jiCyOWkerFqan1yBwHaEc?pid=ImgDet&rs=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+    box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%);
+    backdrop-filter: blur( 7.5px );
+    -webkit-backdrop-filter: blur( 7.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 90vw;
+    height: auto;
+    margin: 3rem 0px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+}
+</style>
+
